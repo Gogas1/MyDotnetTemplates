@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Nikita Karhapoltsev",
+  "classifications": [
+    "Web",
+    "ASP.NET Core",
+    "Project Template"
+  ],
+  "identity": "Gogas1.AspNetCore.JwtEfTemplate",
+  "name": "ASP.NET template with preconfigured JWT and EF Core",
+  "shortName": "jwt-ef-webapi",
+  "sourceName": "jwt-ef-webapi-template",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
