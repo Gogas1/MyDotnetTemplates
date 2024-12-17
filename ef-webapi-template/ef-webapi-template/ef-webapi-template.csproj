@@ -4,7 +4,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>jwt_ef_webapi_template</RootNamespace>
+    <RootNamespace>ef_webapi_template</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

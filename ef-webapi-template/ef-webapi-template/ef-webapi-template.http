@@ -1,0 +1,6 @@
+@ef_webapi_template_HostAddress = http://localhost:5257
+
+GET {{ef_webapi_template_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
